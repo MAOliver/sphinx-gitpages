@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["includeme","index"],objects:{},objnames:{},objtypes:{},terms:{content:1,gitpag:[],index:1,modul:1,search:1},titles:["maoliver.gitpages.io","Welcome to MAOliver&#8217;s Git Pages&#8217;s documentation!"],titleterms:{document:1,git:1,gitpag:0,indic:1,maoliv:[0,1],page:1,tabl:1,welcom:1}})
